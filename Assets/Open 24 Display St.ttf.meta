@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd622aa021035ca4aa3f2af1f5cc6b4b
+timeCreated: 1492366543
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Open 24 Display St
+  fontNames:
+  - Open 24 Display St
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

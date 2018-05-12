@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 15cec459782e78d47858978ab63501f5
+timeCreated: 1492106258
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bath side2
+    100002: baththub floor
+    100004: bathtub bottom
+    100006: Bathtub front
+    100008: Bathtub side1
+    100010: box back
+    100012: Box bottom
+    100014: Box front
+    100016: box side 1
+    100018: box side 2
+    100020: Box001
+    100022: Box002
+    100024: broken wall
+    100026: Btahtub back
+    100028: button 1
+    100030: button2
+    100032: button3
+    100034: button4
+    100036: button5
+    100038: button6
+    100040: button7
+    100042: button8
+    100044: button9
+    100046: door
+    100048: //RootNode
+    100050: floor
+    100052: fusebox
+    100054: Fusebox wire
+    100056: Fusebox wire2
+    100058: Fusebox wire3
+    100060: lid
+    100062: light base
+    100064: light base001
+    100066: lights wire
+    100068: neon004
+    100070: neon005
+    100072: neon006
+    100074: neon1
+    100076: neon2
+    100078: neon3
+    100080: painting
+    100082: Pipe 003
+    100084: Pipe 2
+    100086: Pipe002
+    100088: Pipe1
+    100090: roof
+    100092: safe back
+    100094: Safe bottom
+    100096: safe side1
+    100098: safe side2
+    100100: safe top
+    100102: Sink
+    100104: Sink1
+    100106: switch
+    100108: switch001
+    100110: tap
+    100112: tap1
+    100114: Thick pipe 003
+    100116: Thick pipe 004
+    100118: Thick pipe 005
+    100120: Thick pipe 006
+    100122: Thick pipe 1
+    100124: Thick pipe 2
+    100126: Toilet Back
+    100128: Toilet Base
+    100130: Toilet front
+    100132: Toilet side
+    100134: Toilet side2
+    100136: Toliet Back lower
+    100138: Tv
+    100140: Wall1
+    100142: Wall10
+    100144: Wall2
+    100146: Wall3
+    100148: wall4
+    100150: wall5
+    100152: wall6
+    100154: Wall7
+    100156: Wall8
+    100158: wall9
+    100160: wallmount
+    100162: wallmount001
+    400000: Bath side2
+    400002: baththub floor
+    400004: bathtub bottom
+    400006: Bathtub front
+    400008: Bathtub side1
+    400010: box back
+    400012: Box bottom
+    400014: Box front
+    400016: box side 1
+    400018: box side 2
+    400020: Box001
+    400022: Box002
+    400024: broken wall
+    400026: Btahtub back
+    400028: button 1
+    400030: button2
+    400032: button3
+    400034: button4
+    400036: button5
+    400038: button6
+    400040: button7
+    400042: button8
+    400044: button9
+    400046: door
+    400048: //RootNode
+    400050: floor
+    400052: fusebox
+    400054: Fusebox wire
+    400056: Fusebox wire2
+    400058: Fusebox wire3
+    400060: lid
+    400062: light base
+    400064: light base001
+    400066: lights wire
+    400068: neon004
+    400070: neon005
+    400072: neon006
+    400074: neon1
+    400076: neon2
+    400078: neon3
+    400080: painting
+    400082: Pipe 003
+    400084: Pipe 2
+    400086: Pipe002
+    400088: Pipe1
+    400090: roof
+    400092: safe back
+    400094: Safe bottom
+    400096: safe side1
+    400098: safe side2
+    400100: safe top
+    400102: Sink
+    400104: Sink1
+    400106: switch
+    400108: switch001
+    400110: tap
+    400112: tap1
+    400114: Thick pipe 003
+    400116: Thick pipe 004
+    400118: Thick pipe 005
+    400120: Thick pipe 006
+    400122: Thick pipe 1
+    400124: Thick pipe 2
+    400126: Toilet Back
+    400128: Toilet Base
+    400130: Toilet front
+    400132: Toilet side
+    400134: Toilet side2
+    400136: Toliet Back lower
+    400138: Tv
+    400140: Wall1
+    400142: Wall10
+    400144: Wall2
+    400146: Wall3
+    400148: wall4
+    400150: wall5
+    400152: wall6
+    400154: Wall7
+    400156: Wall8
+    400158: wall9
+    400160: wallmount
+    400162: wallmount001
+    2300000: Bath side2
+    2300002: baththub floor
+    2300004: bathtub bottom
+    2300006: Bathtub front
+    2300008: Bathtub side1
+    2300010: box back
+    2300012: Box bottom
+    2300014: Box front
+    2300016: box side 1
+    2300018: box side 2
+    2300020: Box001
+    2300022: Box002
+    2300024: broken wall
+    2300026: Btahtub back
+    2300028: button 1
+    2300030: button2
+    2300032: button3
+    2300034: button4
+    2300036: button5
+    2300038: button6
+    2300040: button7
+    2300042: button8
+    2300044: button9
+    2300046: door
+    2300048: floor
+    2300050: fusebox
+    2300052: Fusebox wire
+    2300054: Fusebox wire2
+    2300056: Fusebox wire3
+    2300058: lid
+    2300060: light base
+    2300062: light base001
+    2300064: lights wire
+    2300066: neon004
+    2300068: neon005
+    2300070: neon006
+    2300072: neon1
+    2300074: neon2
+    2300076: neon3
+    2300078: painting
+    2300080: Pipe 003
+    2300082: Pipe 2
+    2300084: Pipe002
+    2300086: Pipe1
+    2300088: roof
+    2300090: safe back
+    2300092: Safe bottom
+    2300094: safe side1
+    2300096: safe side2
+    2300098: safe top
+    2300100: Sink
+    2300102: Sink1
+    2300104: switch
+    2300106: switch001
+    2300108: tap
+    2300110: tap1
+    2300112: Thick pipe 003
+    2300114: Thick pipe 004
+    2300116: Thick pipe 005
+    2300118: Thick pipe 006
+    2300120: Thick pipe 1
+    2300122: Thick pipe 2
+    2300124: Toilet Back
+    2300126: Toilet Base
+    2300128: Toilet front
+    2300130: Toilet side
+    2300132: Toilet side2
+    2300134: Toliet Back lower
+    2300136: Tv
+    2300138: Wall1
+    2300140: Wall10
+    2300142: Wall2
+    2300144: Wall3
+    2300146: wall4
+    2300148: wall5
+    2300150: wall6
+    2300152: Wall7
+    2300154: Wall8
+    2300156: wall9
+    2300158: wallmount
+    2300160: wallmount001
+    3300000: Bath side2
+    3300002: baththub floor
+    3300004: bathtub bottom
+    3300006: Bathtub front
+    3300008: Bathtub side1
+    3300010: box back
+    3300012: Box bottom
+    3300014: Box front
+    3300016: box side 1
+    3300018: box side 2
+    3300020: Box001
+    3300022: Box002
+    3300024: broken wall
+    3300026: Btahtub back
+    3300028: button 1
+    3300030: button2
+    3300032: button3
+    3300034: button4
+    3300036: button5
+    3300038: button6
+    3300040: button7
+    3300042: button8
+    3300044: button9
+    3300046: door
+    3300048: floor
+    3300050: fusebox
+    3300052: Fusebox wire
+    3300054: Fusebox wire2
+    3300056: Fusebox wire3
+    3300058: lid
+    3300060: light base
+    3300062: light base001
+    3300064: lights wire
+    3300066: neon004
+    3300068: neon005
+    3300070: neon006
+    3300072: neon1
+    3300074: neon2
+    3300076: neon3
+    3300078: painting
+    3300080: Pipe 003
+    3300082: Pipe 2
+    3300084: Pipe002
+    3300086: Pipe1
+    3300088: roof
+    3300090: safe back
+    3300092: Safe bottom
+    3300094: safe side1
+    3300096: safe side2
+    3300098: safe top
+    3300100: Sink
+    3300102: Sink1
+    3300104: switch
+    3300106: switch001
+    3300108: tap
+    3300110: tap1
+    3300112: Thick pipe 003
+    3300114: Thick pipe 004
+    3300116: Thick pipe 005
+    3300118: Thick pipe 006
+    3300120: Thick pipe 1
+    3300122: Thick pipe 2
+    3300124: Toilet Back
+    3300126: Toilet Base
+    3300128: Toilet front
+    3300130: Toilet side
+    3300132: Toilet side2
+    3300134: Toliet Back lower
+    3300136: Tv
+    3300138: Wall1
+    3300140: Wall10
+    3300142: Wall2
+    3300144: Wall3
+    3300146: wall4
+    3300148: wall5
+    3300150: wall6
+    3300152: Wall7
+    3300154: Wall8
+    3300156: wall9
+    3300158: wallmount
+    3300160: wallmount001
+    4300000: Wall10
+    4300002: floor
+    4300004: broken wall
+    4300006: bathtub bottom
+    4300008: Pipe1
+    4300010: Thick pipe 1
+    4300012: Pipe 2
+    4300014: Thick pipe 2
+    4300016: Sink
+    4300018: Wall1
+    4300020: Wall2
+    4300022: Wall3
+    4300024: wall4
+    4300026: wall5
+    4300028: wall6
+    4300030: Wall7
+    4300032: Wall8
+    4300034: wall9
+    4300036: Toilet Base
+    4300038: Toilet Back
+    4300040: Toilet side
+    4300042: Toilet side2
+    4300044: Toliet Back lower
+    4300046: Bathtub front
+    4300048: Btahtub back
+    4300050: Bathtub side1
+    4300052: Bath side2
+    4300054: Tv
+    4300056: box side 2
+    4300058: lid
+    4300060: wallmount
+    4300062: switch
+    4300064: wallmount001
+    4300066: switch001
+    4300068: fusebox
+    4300070: Box bottom
+    4300072: Box front
+    4300074: box back
+    4300076: box side 1
+    4300078: Box001
+    4300080: button 1
+    4300082: button2
+    4300084: button3
+    4300086: button4
+    4300088: button5
+    4300090: button6
+    4300092: button7
+    4300094: button8
+    4300096: button9
+    4300098: safe back
+    4300100: door
+    4300102: Safe bottom
+    4300104: safe top
+    4300106: safe side1
+    4300108: safe side2
+    4300110: painting
+    4300112: tap
+    4300114: Sink1
+    4300116: tap1
+    4300118: Fusebox wire
+    4300120: Fusebox wire2
+    4300122: lights wire
+    4300124: Pipe002
+    4300126: Pipe 003
+    4300128: Fusebox wire3
+    4300130: roof
+    4300132: light base
+    4300134: neon1
+    4300136: neon2
+    4300138: neon3
+    4300140: neon004
+    4300142: light base001
+    4300144: neon005
+    4300146: neon006
+    4300148: Toilet front
+    4300150: Box002
+    4300152: Thick pipe 003
+    4300154: Thick pipe 004
+    4300156: baththub floor
+    4300158: Thick pipe 005
+    4300160: Thick pipe 006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
